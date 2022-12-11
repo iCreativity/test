@@ -1,2 +1,1 @@
-# general
-# for small university assignment / learning github
+# test repository for learning git
